@@ -44,4 +44,13 @@ public class ListNode {
         
         if(next != null) next.printNodes();
     }
+
+
+    public void addCycle(){
+        ListNode cur = this;
+
+        while(cur.next != null) cur = cur.next;
+
+        cur.next = this;
+    }
 }
