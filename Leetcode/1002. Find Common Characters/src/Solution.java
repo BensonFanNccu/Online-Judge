@@ -3,7 +3,7 @@ import java.util.List;
 
 
 public class Solution {
-    public List<String> commonChars(String[] words) {
+    public List<String> commonChars(String[] words){
         /*
          * Frequency Table Solution
          * Time: O(M*N)
