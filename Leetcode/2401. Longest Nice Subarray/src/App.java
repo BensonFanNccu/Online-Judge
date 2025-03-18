@@ -10,6 +10,9 @@ public class App {
          * A subarray is a contiguous part of an array.
          * 
          * Note that subarrays of length 1 are always considered nice.
+         * 
+         * Input: nums = [1,3,8,48,10]
+         * Output: 3
          */
         
         Solution sol = new Solution();
