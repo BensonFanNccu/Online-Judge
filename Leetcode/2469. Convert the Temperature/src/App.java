@@ -11,6 +11,10 @@ public class App {
          * Note that:
          * 1. Kelvin = Celsius + 273.15
          * 2. Fahrenheit = Celsius * 1.80 + 32.00
+         * 
+         * Example:
+         * Input: celsius = 36.50
+         * Output: [309.65000,97.70000]
          */
         
         Solution sol = new Solution();
