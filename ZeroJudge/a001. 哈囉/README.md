@@ -5,6 +5,6 @@
 
 比如：輸入字串 "world", 則請輸出 "hello, world"
 
-Example:
-Input: world
-Output: hello, world
+Example:<br>
+Input: world<br>
+Output: hello, world<br>
