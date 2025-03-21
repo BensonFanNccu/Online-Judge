@@ -16,6 +16,7 @@ public class Solution {
 
         return ans;
     }
+    
 
     public void inorder(TreeNode root, List<Integer> ans){
         if(root == null) return;
