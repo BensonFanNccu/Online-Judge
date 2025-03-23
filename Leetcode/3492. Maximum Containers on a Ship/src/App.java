@@ -8,6 +8,10 @@ public class App {
          * must not exceed the ship's maximum weight capacity, maxWeight.
          * 
          * Return the maximum number of containers that can be loaded onto the ship.
+         * 
+         * Example:
+         * Input: n = 2, w = 3, maxWeight = 15
+         * Output: 4
          */
         
         Solution sol = new Solution();
